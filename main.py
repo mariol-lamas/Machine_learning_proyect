@@ -5,3 +5,5 @@ def adios():
     pass
 def ya():
     pass
+def fina():
+    pass
