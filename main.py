@@ -1,1 +1,3 @@
 holaaa
+def saludar():
+    pass
