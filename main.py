@@ -7,3 +7,5 @@ def ya():
     pass
 def fina():
     pass
+def piensa():
+    pass
