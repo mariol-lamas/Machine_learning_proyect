@@ -9,3 +9,5 @@ def fina():
     pass
 def piensa():
     pass
+def mierda():
+    pass
