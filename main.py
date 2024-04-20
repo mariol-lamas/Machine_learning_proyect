@@ -11,3 +11,5 @@ def piensa():
     pass
 def mierda():
     pass
+def judini():
+    pass
